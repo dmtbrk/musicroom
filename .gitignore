@@ -1,1 +1,4 @@
 .idea/*
+musicroom/users/__pycache__/
+musicroom/users/migrations/__pycache__/
+req.txt
